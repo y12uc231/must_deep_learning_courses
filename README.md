@@ -18,5 +18,7 @@ of existing machine learning algorithms will be most suitable for which sorts of
 on formal properties and experimental results. (2) Evaluate and analyze existing learning
 algorithms. There are several textbooks that we will use material from. The main textbook for the
 course will be “All of Statistics” (Wasserman 2004). You can get the pdf through the library
-for free. We will cover Chapters 1-12 from the text plus some supplementary material. There
-are several other useful references:
+for free. We will cover Chapters 1-12 from the text plus some supplementary material. 
+
+[Deep Mind Deep Learning Lecture Series](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020) 
+These are lectures from the best in each algorithm of deep learning. These are my personal best to cover breadth and depth of any area of deep learning. Deep Learning has been applied to problems in object recognition, speech recognition, speech synthesis, forecasting, scientific computing, control and many more. The resulting applications are touching all of our lives in areas such as healthcare and medical research, human-computer interaction, communication, transport, conservation, manufacturing and many other fields of human endeavour. In recognition of this huge impact, the 2019 Turing Award, the highest honour in computing, was awarded to pioneers of Deep Learning.
