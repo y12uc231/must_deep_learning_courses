@@ -37,3 +37,17 @@ While deep learning has achieved remarkable success in supervised and reinforcem
 
 This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta learning algorithms and be ready to conduct research on these topics.
 
+[Convolutional Neural Networks for Visual Recognition] (http://cs231n.stanford.edu/)
+
+Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the ImageNet Challenge.
+
+
+[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+
+Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
+
+[Analyses of Deep Learning (STATS 385)](https://stats385.github.io/readings)
+
+This course a lot of mathematical depth of deep learning. Deep learning is a transformative technology that has delivered impressive improvements in image classification and speech recognition. Many researchers are trying to better understand how to improve prediction performance and also how to improve training methods. Some researchers use experimental techniques; others use theoretical approaches. In this course we will review both experimental and theoretical analyses of deep learning. We will have 8 guest lecturers as well as graded projects for those who take the course for credit.
+
+
