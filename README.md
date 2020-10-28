@@ -4,7 +4,7 @@ Hi, I am Satya and I graduated from Carnegie Mellon University in 2018. This pag
 Three principles that worked for me so far :-
 1. DO the math, dont just read it. 
 2. CODE the math, dont just do it on paper. 
-3. APPY the math to a different problem, dont just code it. 
+3. APPLY the math to a different problem, dont just code it. 
 
 [CS229](http://cs229.stanford.edu/) : Machine Learning from Stanford (Andrew Ng)
 
