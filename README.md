@@ -1,6 +1,11 @@
 # Must Deep learning courses
 Hi, I am Satya and I graduated from Carnegie Mellon University in 2018. This page has links to some helpful courses that helped me in learning the fundamentals and advanced concepts of machine learning and deep learning. 
 
+Three principles that worked for me so far :-
+1. DO the math, dont just read it. 
+2. CODE the math, dont just do it on paper. 
+3. APPY the math to a different problem, dont just code it. 
+
 [CS229](http://cs229.stanford.edu/) : Machine Learning from Stanford (Andrew Ng)
 
 This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
