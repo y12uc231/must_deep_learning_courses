@@ -27,3 +27,13 @@ for free. We will cover Chapters 1-12 from the text plus some supplementary mate
 [Deep Mind Deep Learning Lecture Series](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020) 
 
 These are lectures from the best in each algorithm of deep learning. These are my personal best to cover breadth and depth of any area of deep learning. Deep Learning has been applied to problems in object recognition, speech recognition, speech synthesis, forecasting, scientific computing, control and many more. The resulting applications are touching all of our lives in areas such as healthcare and medical research, human-computer interaction, communication, transport, conservation, manufacturing and many other fields of human endeavour. In recognition of this huge impact, the 2019 Turing Award, the highest honour in computing, was awarded to pioneers of Deep Learning.
+
+[CS 330 : Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+
+While deep learning has achieved remarkable success in supervised and reinforcement learning problems, such as image classification, speech recognition, and game playing, these models are, to a large degree, specialized for the single task they are trained for. This course will cover the setting where there are multiple tasks to be solved, and study how the structure arising from multiple tasks can be leveraged to learn more efficiently or effectively. This includes:
+
+* goal-conditioned reinforcement learning techniques that leverage the structure of the provided goal space to learn many tasks significantly faster
+* meta-learning methods that aim to learn efficient learning algorithms that can learn new tasks quickly
+* curriculum and lifelong learning, where the problem requires learning a sequence of tasks, leveraging their shared structure to enable knowledge transfer
+* This is a graduate-level course. By the end of the course, students will be able to understand and implement the state-of-the-art multi-task learning and meta learning algorithms and be ready to conduct research on these topics.
+
