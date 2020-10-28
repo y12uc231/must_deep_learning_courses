@@ -57,3 +57,17 @@ This course a lot of mathematical depth of deep learning. Deep learning is a tra
 [Deep Reinforcement Learning by Russ](https://deeplearning-cmu-10707.github.io/)
 
 Building intelligent machines that are capable of extracting meaningful representations from high-dimensional data lies at the core of solving many AI related tasks. In the past few years, researchers across many different communities, from applied statistics to engineering, computer science and neuroscience, have developed deep (hierarchical) models -- models that are composed of several layers of nonlinear processing. An important property of these models is that they can learn useful representations by re-using and combining intermediate concepts, allowing these models to be successfully applied in a wide variety of domains, including visual object recognition, information retrieval, natural language processing, and speech perception. This is an advanced graduate course, designed for Masters and Ph.D. level students, and will assume a reasonable degree of mathematical maturity. The goal of this course is to introduce students to the recent and exciting developments of various deep learning methods.
+
+[10-708 – Probabilistic Graphical Models](https://www.cs.cmu.edu/~epxing/Class/10708-20/)
+
+Many of the problems in artificial intelligence, statistics, computer systems, computer vision, natural language processing, and computational biology, among many other fields, can be viewed as the search for a coherent global conclusion from local information. The probabilistic graphical models framework provides an unified view for this wide range of problems, enables efficient inference, decision-making and learning in problems with a very large number of attributes and huge datasets. This graduate-level course will provide you with a strong foundation for both applying graphical models to complex problems and for addressing core research topics in graphical models.
+
+[10-725 - Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)
+
+Nearly every problem in machine learning and computational statistics can be formulated
+in terms of the optimization of some function, possibly under some set of constraints. As
+we obviously cannot solve every problem in machine learning, this means that we cannot
+generically solve every optimization problem (at least not efficiently). Fortunately, many
+problems of interest in machine learning can be posed as optimization tasks that have
+special properties—such as convexity, smoothness, sparsity, separability, etc.—permitting
+standardized, efficient solution techniques
