@@ -10,7 +10,7 @@ Machine Learning is concerned with computer programs that automatically improve 
 [Intro to Reinforcement Learning by David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) 
 David silver is one of the rockstars of reinforcement learning and I strongly suggest this course since it covers fundamentals and provides a good ramp to learn advanced RL. Reinforcement Learning has emerged as a powerful technique in modern machine learning, allowing a system to learn through a process of trial and error. It has been succesfully applied in many domains, including systems such as AlphaZero, that learnt to master the games of chess, Go and Shogi. This lecture series, taught at University College London by David Silver - DeepMind Principal Scienctist, UCL professor and the co-creator of AlphaZero - will introduce students to the main methods and techniques used in RL. Students will also find Sutton and Barto’s classic book, Reinforcement Learning: an Introduction a helpful companion.
 
-[36-705] Intermediate Statistics(http://www.stat.cmu.edu/~larry/=stat705/) by Larry Wasserman
+[36-705 Intermediate Statistics ] (http://www.stat.cmu.edu/~larry/=stat705/) by Larry Wasserman
 This course covers the fundamentals of theoretical statistics. Topics include: concentration of
 measure, basic empirical process theory, convergence, point and interval estimation, maximum
 likelihood, hypothesis testing, Bayesian inference, nonparametric statistics and bootstrap resampling. This course is excellent preparation for advanced work in Statistics and Machine Learning. Some course objectives for students in machine learning include: (1) Predict which kinds
