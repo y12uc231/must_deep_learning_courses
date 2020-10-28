@@ -1,5 +1,5 @@
 # Must Deep learning courses
-Hi, I am Satya and I graduated from Carnegie Mellon University in 2018. This page has links to amazing courses that helped me in learning the fundamentals and advanced concepts of machine learning and deep learning. 
+Hi, I am Satya and I graduated from Carnegie Mellon University in 2018. This page has links to some helpful courses that helped me in learning the fundamentals and advanced concepts of machine learning and deep learning. 
 
 [CS229](http://cs229.stanford.edu/) : Machine Learning from Stanford (Andrew Ng)
 
