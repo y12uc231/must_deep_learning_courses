@@ -95,5 +95,5 @@ clustering, classification, boosting; theory and methods at the intersection of 
 computational efficiency; as well as vignettes of theoretical results on some hot topics such as
 robustness and explainability.
 
-[Github Repo with lecture notes and hws](sdf)
+[Github Repo with lecture notes and hws](https://github.com/y12uc231/10716_advanced_ml_cmu)
 
