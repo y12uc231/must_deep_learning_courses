@@ -54,6 +54,7 @@ Computer Vision has become ubiquitous in our society, with applications in searc
 [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how people share information. In recent years, deep learning approaches have obtained very high performance on many NLP tasks. In this course, students gain a thorough introduction to cutting-edge neural networks for NLP.
+The latest revision of the course is here : [CS224n : link](https://web.stanford.edu/class/cs224n/index.html#coursework)
 
 [Analyses of Deep Learning (STATS 385)](https://stats385.github.io/readings)
 
@@ -76,3 +77,23 @@ generically solve every optimization problem (at least not efficiently). Fortuna
 problems of interest in machine learning can be posed as optimization tasks that have
 special properties—such as convexity, smoothness, sparsity, separability, etc.—permitting
 standardized, efficient solution techniques
+
+[10-716 Advanced Machine Learning](http://www.cs.cmu.edu/~pradeepr/716/)
+
+Advanced Machine Learning is a graduate level course introducing the theoretical foundations
+of modern machine learning, as well as advanced methods and frameworks used in modern
+machine learning. The course assumes that students have taken graduate level introductory
+courses in machine learning (Introduction to Machine Learning, 10-701 or 10-715), as well as
+Statistics (Intermediate Statistics, 36-700 or 36-705). The course treats both the art of designing
+good learning algorithms, as well as the science of analyzing an algorithm's computational and
+statistical properties and performance guarantees. Theorems are presented together with
+practical aspects of methodology and intuition to help students develop tools for selecting
+appropriate methods and approaches to problems in their own research. We will cover
+advanced machine learning methods such as nonparametric and deep compositional
+approaches to density estimation and regression; advanced theory such as fundamentals of
+clustering, classification, boosting; theory and methods at the intersection of statistical and
+computational efficiency; as well as vignettes of theoretical results on some hot topics such as
+robustness and explainability.
+
+[Github Repo with lecture notes and hws](sdf)
+
