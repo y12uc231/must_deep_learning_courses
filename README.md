@@ -97,3 +97,14 @@ robustness and explainability.
 
 [Github Repo with lecture notes and hws](https://github.com/y12uc231/10716_advanced_ml_cmu)
 
+
+[Full Stack Deep Learning : Peter Abiel (UCB] (https://www.youtube.com/playlist?list=PLuv1FSpHurUc2nlabZjCLLe8EQa9fOoa9)
+
+This is a course which is more on the practical side of deep learning. This helped me a lot in debugging and creating non-trevial model changes. 
+
+[CS224W: Machine Learning with Graphs - Stanford / Winter 2021] (https://www.youtube.com/playlist?list=PLuv1FSpHurUemjLiP4L1x9k6Z9D8rNbYW)
+Complex data can be represented as a graph of relationships between objects. Such networks are a fundamental tool for modeling social, technological, and biological systems. This course focuses on the computational, algorithmic, and modeling challenges specific to the analysis of massive graphs. By means of studying the underlying graph structure and its features, students are introduced to machine learning techniques and data mining tools apt to reveal insights on a variety of networks.
+
+
+
+
